@@ -1,0 +1,24 @@
+ID:0
+Nome:   maça
+Preço:10.0
+Descrição:   vermelha
+ID:1
+Nome:   banana
+Preço:12.0
+Descrição:   amarela
+ID:3
+Nome:   abacate
+Preço:25.0
+Descrição:   casca verde
+ID:4
+Nome:  melão
+Preço:4.0
+Descrição:  casca amarela
+ID:5
+Nome:  melancia
+Preço:25.0
+Descrição:  fruto saboroso, com muita fibra e agua
+ID:6
+Nome: morango
+Preço: 50.0
+Descrição: frutas deliciosas

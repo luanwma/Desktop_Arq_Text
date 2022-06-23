@@ -1,0 +1,21 @@
+ID de Venda :0
+ID do Cliente :3
+ID do Produto :1
+Nome do Produto :    banana
+Descrição :    amarela
+Preço do Produto :12.0
+Quantidade :1
+Valor por Item :12.0
+ID do Produto :5
+Nome do Produto :   melancia
+Descrição :   fruto saboroso, com muita fibra e agua
+Preço do Produto :25.0
+Quantidade :1
+Valor por Item :25.0
+ID do Produto :6
+Nome do Produto :  morango
+Descrição :  frutas deliciosas
+Preço do Produto :50.0
+Quantidade :1
+Valor por Item :50.0
+Valor Total da Venda :87.0
